@@ -1,0 +1,12 @@
+
+# node packages and dependencies
+node_modules/
+
+# production folder
+dist/
+
+# dotenv
+.env
+
+# package-lock
+package-lock.json
